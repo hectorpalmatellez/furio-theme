@@ -7,4 +7,4 @@ PROMPT='%{$fg_bold[blue]%}$ZSH_THEME_FURIO_PREFIX %{$fg_bold[red]%}%p %{$fg[red]
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[red]%}[%{$fg[white]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[red]%}] %{$fg[yellow]%}😱%{$reset_color%} "
-ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[red]%}]"
+ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[red]%}] 😐 "
