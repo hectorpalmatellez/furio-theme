@@ -1,6 +1,6 @@
 #Furio zsh theme
 
-![in action](https://raw.githubusercontent.com/hectorpalmatellez/furio-theme/master/zsh-furio.gif)
+![in action](https://raw.githubusercontent.com/hectorpalmatellez/furio-theme/master/zsh-furio-2.gif)
 
 Fork of the [Cloud oh-my-zsh theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/cloud.zsh-theme). It has different colors and emojis for full efect.
 
